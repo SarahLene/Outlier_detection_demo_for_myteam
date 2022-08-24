@@ -1,0 +1,18 @@
+[bulid-system]
+requires = ["Pyod"]
+
+[project]
+name = "Outlier_detection_demo_for_myteam"
+version = "0.0.1"
+authors = [
+  { name="SarahLene", email="m15528382598@163.com" },
+]
+description = "A small example package"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
